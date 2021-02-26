@@ -1,8 +1,13 @@
+# Base Project
+
+[`NLW#4 - Trilha ReactJS – Próximo nível com React`](https://nextlevelweek.com/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Sample](public/imgs/sample.png)
 ## Getting Started
 
-# Add packages
+Add packages
 
 ```bash
 yarn install
