@@ -36,6 +36,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
   - [Effect Hook](https://pt-br.reactjs.org/docs/hooks-effect.html)
   - [Context](https://pt-br.reactjs.org/docs/context.html)
 
+- Html
+  - [Notification](https://developer.mozilla.org/pt-BR/docs/Web/API/Notification)
+  
 - CSS
   - [Grid Layout](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
   - [Custom Property / var](https://developer.mozilla.org/pt-BR/docs/Web/CSS/var())
